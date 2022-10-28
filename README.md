@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weinteo
 - 👀 I’m interested in web3, blockchain and digital currency.
-- 🌱 I’m currently learning fe, solidity develop.
+- 🌱 I’m currently learning fe, contract develop.
 - 💞️ I’m looking to friends with same interestion.
 - 📫 ...
 
